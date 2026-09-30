@@ -404,7 +404,7 @@
     <string name="title_desktop_widget_corner_radius">Радиус угла виджета</string>
     <string name="title__drawer_rows">Количество строк</string>
     <string name="summary_fuzzy_search">Приблизительное соответствие для поиска приложений.</string>
-    <string name="protected_apps">Нажмите, чтобы открыть защищенные приложения</string>
+    <string name="protected_apps">Защищенные приложения</string>
     <string name="title_smartspace">Показать Смартспейс</string>
     <string name="icon_picker_load_failed">Не удалось загрузить больше иконок.</string>
     <string name="title_use_pill_qsb">Показать ярлык поиска в стиле таблетки</string>
@@ -530,7 +530,7 @@
     <string name="title_enable_folders">Включить папки в выдвижной панели</string>
     <string name="title_manage_folders">Управление папками</string>
     <string name="summary_manage_tabs">Создать или изменить вкладки</string>
-    <string name="summary_manage_folders">Создать или изменить папки</string>
+    <string name="summary_manage_folders">Нажмите, чтобы создать или изменить папки</string>
     <string name="title_drawer_tabs">Горизонтальные вкладки</string>
     <string name="category_art_and_design">Дизайн</string>
     <string name="category_business_and_productivity">Продуктивность</string>
@@ -587,4 +587,8 @@
     <string name="weather_code_thunderstorm">Гроза</string>
     <string name="weather_feels_like">Ощущается как %1$s</string>
     <string name="weather_forecast_hourly">Прогноз на час</string>
+    <string name="title_popup_menu_open">Открыть всплывающее меню</string>
+    <string name="tap_protected_apps">Нажмите, чтобы открыть защищенные приложения</string>
+    <string name="gesture_pinch_in">Ущепнуть</string>
+    <string name="gesture_pinch_out">Раздвинуть</string>
 </resources>
