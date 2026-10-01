@@ -600,7 +600,8 @@
     <string name="weather_code_thunderstorm">Temporale</string>
     <string name="weather_forecast_hourly">Previsioni orarie</string>
     <string name="weather_feels_like">Percepita %1$s</string>
-    <string name="title_popup_menu_open"></string>
+    <string name="title_popup_menu_open">Apri menu a comparsa</string>
     <string name="tap_protected_apps">Tocca per aprire le app protette</string>
-    <string name="gesture_pinch_in"></string>
+    <string name="gesture_pinch_in">Pizzica per rimpicciolire</string>
+    <string name="gesture_pinch_out">Pizzica per allargare</string>
 </resources>
